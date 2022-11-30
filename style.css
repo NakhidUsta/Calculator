@@ -1,0 +1,58 @@
+.sayfa{
+    width: 360px;
+    margin: auto;
+    border: 5px solid #588c7e;
+    margin-top: 70px;
+    
+}
+table{
+    background: #efefef;
+    border-spacing: 10px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    border: 5px solid black;
+    padding:auto ;
+   
+    margin: 0;
+    background-color: #588c7e;
+}
+h2{
+    text-align: center;
+    border: 5px solid black;
+    padding:auto ;
+   
+    margin: 0;
+    background-color: #588c7e;
+
+}
+
+table .btn {
+ width: 60px;
+ background: #f2ae72;
+ text-align: center;
+ font-size: 1.5rem;
+ color: #fff;
+ line-height: 60px;
+
+}
+.islem .gosterge {
+    padding: 5px;
+    text-align: right;
+}
+.gosterge{
+    height: 60px;
+    background-color: #ddfafa;
+    color: #333;
+    font-size: 1.8rem;
+    text-align: right;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.islem{
+    background-color: #aaa;
+
+}
